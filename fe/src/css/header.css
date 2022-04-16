@@ -65,7 +65,10 @@
     color:white;
 }
 
-.header_basketCount{
-    margin-left: 10px;
-    margin-right: 10px;
+.header_OptionLineTwo{
+    color: white;
+}
+
+a{
+    text-decoration: none;
 }

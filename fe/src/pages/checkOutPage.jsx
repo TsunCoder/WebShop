@@ -12,6 +12,12 @@ function checkout() {
           <p className="total">Thành tiền</p>
         </div>
       </div>
+      <div className="checkout_product">
+
+      </div>
+      <div className="checkout_payment">
+
+      </div>
     </div>
   );
 }
