@@ -1,0 +1,40 @@
+.auth_page {
+  background-color: #fff;
+  margin: 0 auto;
+  width: 30%;
+  padding: 0.5rem;
+  margin-top: 5%;
+  border: 10px;
+  border-radius: 10px;
+}
+
+.auth_page h1{
+    text-align: center;
+}
+
+.auth_page input{
+    height: 30px;
+    margin: 5px;
+    width: 78.2%;
+    margin-left: 10%;
+    text-indent: 10px;
+}
+
+.btn_register{
+    width: 80%;
+    margin: 0 auto;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+button:hover{
+    background-color: #006368;
+    color: white;
+    transition: 0.5s;
+}
+
+.login{
+    align-items: center;
+    text-align: center;
+}
+

@@ -1,0 +1,64 @@
+.signin{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 1050px;
+}
+.signin img{
+    padding-left: 11rem;
+    margin-top: 7%;
+}
+.auth_page {
+  background-color: #fff;
+  margin: 0 auto;
+  width: 30%;
+  padding: 0.5rem;
+  margin-top: 5%;
+  border: 10px;
+  border-radius: 10px;
+  margin-right: 5%;
+}
+
+.auth_page h1{
+    text-align: center;
+}
+
+.auth_page input{
+    height: 30px;
+    margin: 5px;
+    width: 78.2%;
+    margin-left: 10%;
+    text-indent: 10px;
+}
+
+.btn_signin{
+    width: 80%;
+    margin: 0 auto;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+button:hover{
+    background-color: #006368;
+    color: white;
+    transition: 0.5s;
+}
+
+.forgetPass a{
+    text-align: center;
+    align-items: center;
+}
+.or{
+    align-items: center;
+    text-align: center;
+}
+.link{
+    align-items: center;
+    text-align: center;
+}
+.gotoregister{
+    align-items: center;
+    text-align: center;
+}
+

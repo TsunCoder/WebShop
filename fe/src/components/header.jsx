@@ -18,7 +18,9 @@ function Header() {
       <div className="header_navbar">
         <div className="header_option">
           <span className="option_lineOne">Hello</span>
-          <span className="option_lineTwo">Sign In</span>
+          <Link to="/signin">
+            <span className="option_lineTwo">Sign In</span>
+          </Link>
         </div>
         <div className="header_option">
           <span className="option_lineOne">Return</span>
